@@ -21,14 +21,14 @@ $ cd ../Hackathon1
 $ npm install
 $ npm start
 ```
-##Features
+## Features
 The main features of the presented address book include: adding a new contact, deleting a contact, viewing full contact list and exiting the programme.
 
 ## Status
 Although the hackathon is over, the project status is _work in progress_. Due to time constraints, the solution developed is not ideal but will be improved in future.
 Feel free to contribute.
 
-##Inspiration
+## Inspiration
 As mentioned above, the address book solution was inspired by a hackathon task.
 
 
